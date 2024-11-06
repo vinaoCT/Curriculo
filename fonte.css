@@ -1,0 +1,23 @@
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 400px;
+    height: 400px;
+    margin: 40px auto;
+    display: flex;
+}
+@media (max-widht:800px) {
+
+    .classe{
+        background-color: red;
+    }
+
+    .classe2{
+        background-color: black;
+    }
+    
+}
